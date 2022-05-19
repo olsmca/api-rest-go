@@ -1,4 +1,6 @@
 # api-rest-go
+[![Go CI](https://github.com/olsmca/api-rest-go/blob/main/.github/workflows/go.yml/badge.svg)](https://github.com/olsmca/api-rest-go/actions/workflows/go.yml)
+
 
 API en golang con Base de datos mongo
 
